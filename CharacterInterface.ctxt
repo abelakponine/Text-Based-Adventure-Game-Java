@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CharacterInterface
+comment0.text=\r\n\ This\ is\ a\ text\ based\ Adventure\ Game\r\n\ This\ class\ represents\ a\ human\ character\ interface,\ which\ other\ human\ characters\ inherit\r\n\ @author\ Abel\ Akponine\r\n\ @version\ 2019.12.16\r\n
+comment1.params=name
+comment1.target=void\ setName(java.lang.String)
+comment1.text=this\ class\ represents\ a\ character\ interface\ *
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=health
+comment3.target=void\ setHealthStatus(int)
+comment4.params=
+comment4.target=int\ getHealthStatus()
+comment5.params=character
+comment5.target=void\ attack(Character)
+numComments=6

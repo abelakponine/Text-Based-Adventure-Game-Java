@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CollectWeapon
+comment0.text=\r\n\ This\ is\ a\ text\ based\ Adventure\ Game\r\n\ This\ class\ represents\ a\ weapon\ collection\ scene,\ where\ weapons\ are\ collected\r\n\ @author\ Abel\ Akponine\r\n\ @version\ 2019.12.16\r\n
+comment1.params=
+comment1.target=CollectWeapon()
+comment1.text=this\ is\ a\ constructor\ for\ weapon\ collection\ items\ *
+numComments=2

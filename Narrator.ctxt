@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Narrator
+comment0.text=\r\n\ This\ is\ a\ text\ based\ Adventure\ Game\r\n\ This\ is\ a\ sub\ class\ of\ main\ Character\ class\r\n\ This\ class\ represents\ a\ narrator\ which\ gives\ instruction\ about\ games\r\n\ @author\ Abel\ Akponine\r\n\ @version\ 2019.12.16\r\n
+comment1.params=required\ expected
+comment1.target=Narrator(java.lang.String,\ double)
+comment1.text=this\ is\ a\ narrator\ constructor\ for\ dice\ rolling\ *
+comment2.params=gameName
+comment2.target=Narrator(java.lang.String)
+comment2.text=this\ is\ an\ overlaod\ narrator\ constructor\ for\ generic\ gametype\ other\ than\ dice\ rolling\ *
+comment3.params=gameName
+comment3.target=void\ getInstruction(java.lang.String)
+comment3.text=this\ is\ a\ narration\ of\ game\ instruction\ *
+numComments=4

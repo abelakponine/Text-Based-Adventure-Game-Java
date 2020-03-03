@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=GameObject
+comment0.text=\r\n\ This\ is\ a\ text\ based\ Adventure\ Game\r\n\ This\ class\ represents\ a\ game\ object,\r\n\ which\ other\ sub\ classes\ like\ SceneObject\ and\ Item\ inherit\r\n\ @author\ Abel\ Akponine\r\n\ @version\ 2019.12.16\r\n
+comment1.params=
+comment1.target=GameObject()
+comment1.text=this\ is\ a\ constructor\ for\ Game\ object\ *
+comment2.params=name
+comment2.target=void\ setName(java.lang.String)
+comment2.text=this\ method\ sets\ the\ name\ of\ Game\ object\ *
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=this\ method\ returns\ the\ name\ of\ Game\ object\ *
+comment4.params=type
+comment4.target=void\ setObjectType(java.lang.String)
+comment4.text=this\ method\ sets\ the\ type\ of\ Game\ object\ *
+comment5.params=
+comment5.target=java.lang.String\ getObjectType()
+comment5.text=this\ method\ returns\ the\ type\ of\ Game\ object\ *
+comment6.params=i
+comment6.target=void\ setIndex(int)
+comment6.text=this\ method\ assigns\ index\ position\ Game\ object\ in\ arrays\ *
+comment7.params=
+comment7.target=int\ getIndex()
+comment7.text=this\ method\ returns\ the\ index\ position\ of\ Game\ object\ *
+numComments=8

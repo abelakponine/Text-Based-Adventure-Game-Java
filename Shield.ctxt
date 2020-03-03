@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Shield
+comment0.text=\r\n\ This\ is\ a\ text\ based\ Adventure\ Game\r\n\ This\ class\ represents\ a\ shield\ item,\ used\ for\ defence\ during\ combat\ scene\r\n\ @author\ Abel\ Akponine\r\n\ @version\ 2019.12.16\r\n
+comment1.params=
+comment1.target=Shield()
+comment1.text=this\ is\ a\ constructor\ for\ shield\ item\ *
+numComments=2

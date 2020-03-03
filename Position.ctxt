@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Position
+comment0.text=\r\n\ This\ is\ a\ text\ based\ Adventure\ Game\r\n\ This\ class\ represents\ the\ position\ of\ a\ player\ character\r\n\ @author\ Abel\ Akponine\r\n\ @version\ 2019.12.16\r\n
+comment1.params=
+comment1.target=Position()
+comment2.params=value
+comment2.target=void\ setCoordX(int)
+comment3.params=value
+comment3.target=void\ setCoordY(int)
+comment4.params=
+comment4.target=int\ getCoordX()
+comment5.params=
+comment5.target=int\ getCoordY()
+numComments=6

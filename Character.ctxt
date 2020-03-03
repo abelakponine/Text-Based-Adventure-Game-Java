@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Character
+comment0.text=\r\n\ This\ is\ a\ text\ based\ Adventure\ Game\r\n\ This\ class\ represents\ a\ human\ character,\ which\ other\ human\ sub\ classes\ inherit\r\n\ @author\ Abel\ Akponine\r\n\ @version\ 2019.12.16\r\n
+comment1.params=
+comment1.target=Character()
+comment1.text=this\ class\ represents\ a\ constructor\ of\ character\ *
+comment2.params=name
+comment2.target=void\ setName(java.lang.String)
+comment2.text=this\ sets\ the\ name\ of\ the\ character\ *
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=this\ returns\ the\ name\ of\ the\ character\ *
+comment4.params=health
+comment4.target=void\ setHealthStatus(int)
+comment4.text=this\ sets\ the\ health\ status\ of\ the\ character\ *
+comment5.params=
+comment5.target=int\ getHealthStatus()
+comment5.text=this\ returns\ the\ health\ status\ of\ the\ character\ *
+comment6.params=character
+comment6.target=void\ attack(Character)
+comment6.text=this\ triggers\ attack\ during\ combat\ scene\ *
+numComments=7

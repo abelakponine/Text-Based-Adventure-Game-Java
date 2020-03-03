@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=GameBoard
+comment0.text=\r\n\ This\ is\ a\ text\ based\ Adventure\ Game\r\n\ This\ class\ represents\ a\ game\ board\ which\ lunches\ game\ scenes\r\n\ @author\ Abel\ Akponine\r\n\ @version\ 2019.12.16\r\n
+comment1.params=player\ items
+comment1.target=GameBoard(Player,\ java.util.ArrayList)
+comment1.text=this\ is\ a\ constructor\ for\ the\ game\ board\ *
+comment2.params=x\ y
+comment2.target=GameObject\ getSceneAtIndex(int,\ int)
+comment2.text=this\ is\ used\ for\ returning\ a\ game\ scene\ at\ the\ given\ indexes\ *
+comment3.params=x\ y\ scene
+comment3.target=void\ setSceneAtIndex(int,\ int,\ GameObject)
+comment3.text=this\ is\ used\ to\ set\ indexes\ of\ game\ scenes\ at\ given\ coordinates\ \ *
+comment4.params=gameAreaIndex\ entryCriteria\ item\ player
+comment4.target=void\ lunchGame(int,\ java.util.ArrayList,\ Item,\ Player)
+comment4.text=this\ method\ lunches\ the\ game\ from\ game\ board\ *
+numComments=5

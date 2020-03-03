@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ This\ is\ a\ text\ based\ Adventure\ Game\r\n\ This\ class\ represents\ an\ item\ object,\ which\ is\ collected\ from\ game\ scenes\r\n\ @author\ Abel\ Akponine\r\n\ @version\ 2019.12.16\r\n
+comment1.params=
+comment1.target=Item()
+comment1.text=this\ is\ a\ constructor\ for\ item\ object\ *
+comment2.params=item
+comment2.target=void\ addItemToList(Item)
+comment2.text=this\ method\ adds\ item\ object\ to\ item\ list\ *
+comment3.params=item
+comment3.target=void\ removeItemFromList(Item)
+comment3.text=this\ method\ removes\ item\ object\ from\ item\ list\ *
+comment4.params=
+comment4.target=int\ getItemListSize()
+comment4.text=this\ method\ returns\ the\ item\ list\ size\ *
+comment5.params=
+comment5.target=void\ printItemList()
+comment5.text=this\ method\ loop\ and\ prints\ item\ list\ names\ *
+comment6.params=details
+comment6.target=void\ setDescription(java.lang.String)
+comment6.text=this\ method\ sets\ the\ description\ of\ item\ object\ *
+comment7.params=
+comment7.target=java.lang.String\ getDescription()
+comment7.text=this\ method\ gets\ the\ of\ item\ objects\ *
+numComments=8

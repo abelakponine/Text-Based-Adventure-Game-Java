@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=RockPaperScissors
+comment0.text=\r\n\ This\ is\ a\ text\ based\ Adventure\ Game\r\n\ This\ class\ represents\ a\ rock\ paper\ scissors\ game\ scene\r\n\ @author\ Abel\ Akponine\r\n\ @version\ 2019.12.16\r\n
+comment1.params=
+comment1.target=RockPaperScissors()
+comment1.text=this\ is\ a\ constructor\ for\ rock\ paper\ scissors\ game\ *
+comment2.params=
+comment2.target=void\ getInstruction()
+comment2.text=this\ method\ calls\ the\ narrator\ of\ the\ game\ *
+comment3.params=
+comment3.target=java.lang.String\ getOutcome()
+comment3.text=this\ method\ returns\ the\ next\ random\ index\ *
+comment4.params=
+comment4.target=void\ playGame()
+comment4.text=this\ is\ a\ method\ used\ to\ play\ the\ game\ *
+comment5.params=player
+comment5.target=void\ simulateGame(Character)
+comment5.text=this\ is\ a\ method\ used\ to\ automatically\ simulate\ the\ game\ *
+numComments=6

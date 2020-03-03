@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=DiceRolling
+comment0.text=\r\n\ This\ is\ a\ text\ based\ Adventure\ Game\r\n\ This\ class\ represents\ a\ dice\ rolling\ game\ scene\r\n\ @author\ Abel\ Akponine\r\n\ @version\ 2019.12.16\r\n
+comment1.params=
+comment1.target=DiceRolling()
+comment1.text=this\ is\ a\ constructor\ for\ dice\ rolling\ game\ *
+comment2.params=
+comment2.target=void\ getInstruction()
+comment2.text=this\ method\ defines\ instructions\ and\ call\ narrator\ *
+comment3.params=player
+comment3.target=void\ rollDice(Character)
+comment3.text=this\ method\ simulates\ a\ rolling\ dice\ *
+comment4.params=player
+comment4.target=void\ simulateGame(Player)
+comment4.text=this\ method\ simulates\ the\ game\ automatically\ *
+comment5.params=x\ y
+comment5.target=double\ operate(int,\ int)
+comment5.text=this\ method\ returns\ a\ double\ variable\ *
+numComments=6

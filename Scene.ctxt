@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Scene
+comment0.text=\r\n\ This\ is\ a\ text\ based\ Adventure\ Game\r\n\ This\ is\ a\ main\ scene\ class,\ creates\ and\ assign\ scenes\ automatically\ \r\n\ @author\ Abel\ Akponine\r\n\ @version\ 2019.12.16\r\n
+comment1.params=player\ items
+comment1.target=Scene(Player,\ java.util.ArrayList)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Scene\r\n
+comment2.params=
+comment2.target=GameObject\ getScene()
+comment2.text=this\ method\ sets\ and\ return\ the\ activeScene\ *
+comment3.params=activeScene
+comment3.target=void\ removeScene(GameObject)
+comment3.text=this\ method\ removes\ a\ scene\ from\ created\ scene\ list\ *
+numComments=4

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Test_Player
+comment0.text=\r\n\ This\ is\ a\ text\ based\ Adventure\ Game\r\n\ This\ class\ represents\ a\ player\ character,\ inherited\ from\ Chracter\ main\ class\r\n\ This\ class\ tests\ the\ player\ class\r\n\ @author\ Abel\ Akponine\r\n\ @version\ 2019.12.18\r\n
+comment1.params=
+comment1.target=Test_Player()
+comment1.text=This\ is\ a\ constructor\ for\ testing\ player\ class\ *
+numComments=2

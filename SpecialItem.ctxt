@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SpecialItem
+comment0.text=\r\n\ This\ is\ a\ text\ based\ Adventure\ Game\r\n\ This\ class\ represents\ a\ special\ item,\ which\ when\ collected\ determines\ the\ completion\ of\ game\r\n\ @author\ Abel\ Akponine\r\n\ @version\ 2019.12.16\r\n
+comment1.params=
+comment1.target=SpecialItem()
+comment1.text=this\ is\ a\ constructor\ for\ special\ item\ *
+numComments=2

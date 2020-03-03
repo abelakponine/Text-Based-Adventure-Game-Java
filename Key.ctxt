@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Key
+comment0.text=\r\n\ This\ is\ a\ text\ based\ Adventure\ Game\r\n\ This\ class\ represents\ a\ key\ item\ used\ for\ unlocking\ special\ scenes\r\n\ @author\ Abel\ Akponine\r\n\ @version\ 2019.12.16\r\n
+comment1.params=
+comment1.target=Key()
+comment1.text=this\ is\ a\ constructor\ for\ key\ item\ *
+numComments=2

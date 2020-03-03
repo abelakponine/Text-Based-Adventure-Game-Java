@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CollectShield
+comment0.text=\r\n\ This\ is\ a\ text\ based\ Adventure\ Game\r\n\ This\ class\ represents\ a\ shield\ collection\ scene,\r\n\ where\ shields\ used\ in\ defence\ during\ combat\ are\ collected\r\n\ @author\ Abel\ Akponine\r\n\ @version\ 2019.12.16\r\n
+comment1.params=
+comment1.target=CollectShield()
+comment1.text=this\ class\ represents\ shield\ collection\ scene\ *
+numComments=2
