@@ -2,7 +2,7 @@
 This is a text based adventure game developed in java (back-end implementation). M.Sc. Software Development (Individual project) at the University of Strathclyde, Glasgow, UK. 2019/2020 session.
 
 # Developer: Abel Akponine
-# Year: 2019
+# Date: December 2019
 
 # Game Characters:
 1. Player
